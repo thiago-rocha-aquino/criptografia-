@@ -1,5 +1,4 @@
 # criptografia-
 criptografia  assimétrica <br>
-curso ciencia da computação
-<hr>
+curso ciencia da computação:<br>
 trabalho semestral 
